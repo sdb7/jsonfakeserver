@@ -1,1 +1,5 @@
-/*fake server database definition*/
+{
+  "client": {
+    "username": ""
+  }
+}
